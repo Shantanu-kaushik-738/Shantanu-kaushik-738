@@ -17,4 +17,4 @@ I love building user-friendly mobile experiences. I build robust and scalable An
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Shantanu_kaushik_?theme=dark&font=Roboto&ext=contest)
 
 ### GeeksforGeeks
-![GFG Stats](https://github-readme-stats.vercel.app/api?username=sanukaushik420&show_icons=true&locale=en&layout=compact&theme=dark)
+![GFG Stats](https://github-readme-gfg-stats.vercel.app/api?username=Shantanu_kaushik_&theme=dark)
