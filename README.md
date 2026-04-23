@@ -12,9 +12,9 @@ I love building user-friendly mobile experiences. I build robust and scalable An
 
 
 ## 📊 Coding Stats
+## 📊 Coding Profiles
 
-### LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/Shantanu_kaushik_?theme=dark&font=Roboto&ext=contest)
-
-### GeeksforGeeks
-![GFG Stats](https://github-readme-gfg-stats.vercel.app/api?username=sanukaushik420&theme=dark)
+| GeeksforGeeks | LeetCode |
+|---------------|----------|
+| ![GFG Stats](https://github-readme-gfg-stats.vercel.app/api?username=Shantanu_kaushik_&theme=dark) | 
+![LeetCode Stats](https://leetcard.jacoblin.cool/sanukaushik420?theme=dark&font=Roboto&ext=contest) |
