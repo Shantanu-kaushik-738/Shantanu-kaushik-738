@@ -1,3 +1,14 @@
+## 👨‍💻 About Me
+- 🎓 B.Tech CSE student
+- 🔥 Passionate about **Competitive Programming** (C++/Java) and **Problem Solving**  
+- 🌱 Currently mastering **Data Structures & Algorithms (DSA)**  
+- 🛠️ Building projects in **Java OOP, Web Development (HTML, CSS, JS), and Python basics**  
+- 📊 Active on **LeetCode (200+ problems solved), CodeChef (1100+ rating), and GitHub** 
+- 💬 Ask me about: Java, C++, DSA, Competitive Programming  
+- ⚡ Fun fact: I debug with dry runs before touching the compiler 😉
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Shantanu-kaushik-738&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shantanu-kaushik-b16a6835b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaushikshantanu420@gmail.com) 
@@ -9,8 +20,10 @@
 ![](https://github-readme-stats.shion.dev/api?username=Shantanu-kaushik-738&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Shantanu-kaushik-738&theme=holi&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shantanu-kaushik-738&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
