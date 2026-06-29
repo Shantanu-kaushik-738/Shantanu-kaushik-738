@@ -21,11 +21,9 @@
 ![](https://streak-stats.demolab.com/?user=Shantanu-kaushik-738&theme=holi&hide_border=false)<br/>
 
 <!-- Snake Game Repo View -->
-<!-- <div align="center">
+<<div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div> -->
-
-![Snake animation](https://github.com/Shantanu-kaushik-738/gSnake/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
