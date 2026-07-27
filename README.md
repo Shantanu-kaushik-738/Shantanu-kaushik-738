@@ -11,7 +11,6 @@
 # 🏅 GitHub Achievements
 
 <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" height="80" alt="Quickdraw"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/git-integration-default.png" width="80" height="80" alt="Gitty Up!"/>
 
 
 ## 🌐 Socials:
