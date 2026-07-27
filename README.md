@@ -1,4 +1,4 @@
-## 👨‍💻 About Me
+## 👨‍💻 About Me 
 - 🎓 B.Tech CSE student
 - 🔥 Passionate about **Competitive Programming** (C++/Java) and **Problem Solving**  
 - 🌱 Currently mastering **Data Structures & Algorithms (DSA)**  
@@ -6,6 +6,7 @@
 - 📊 Active on **LeetCode (250+ problems solved), CodeChef (1100+ rating), and GitHub** 
 - 💬 Ask me about: Java, C++, DSA, Competitive Programming  
 - ⚡ Fun fact: I debug with dry runs before touching the compiler 
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shantanu-kaushik-738&theme=radical&no-frame=false&no-bg=true&margin-w=4)
