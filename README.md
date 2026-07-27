@@ -9,8 +9,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shantanu-kaushik-738&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-# 🏅 GitHub Achievements
-![GitHub Achievements](https://github-profile-achievements.vercel.app/api/?username=Shantanu-kaushik-738)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shantanu-kaushik-b16a6835b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaushikshantanu420@gmail.com) 
