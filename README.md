@@ -9,11 +9,9 @@
 
 
 # 🏅 GitHub Achievements
-![GitHub Achievements](https://github-profile-achievements.vercel.app/api/?username=Shantanu-kaushik-738)
 
-### 🔖 Specific Badges
-![Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)
-![Gitty Up!](https://github.githubassets.com/images/modules/profile/achievements/git-integration-default.png)
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" height="80" alt="Quickdraw"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/git-integration-default.png" width="80" height="80" alt="Gitty Up!"/>
 
 
 ## 🌐 Socials:
