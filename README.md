@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I debug with dry runs before touching the compiler 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shantanu-kaushik-738&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=Commits,Issues,PullRequest,Stars)
+![](https://github-profile-trophy.vercel.app/?username=Shantanu-kaushik-738&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=Quickdraw,GittyUp)
 
 
 ## 🌐 Socials:
