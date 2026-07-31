@@ -29,7 +29,7 @@ I actively participate in LeetCode, CodeChef, and Codeforces to sharpen my skill
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shantanu-kaushik-738&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.shion.dev/api?username=Shantanu-kaushik-738&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Shantanu-kaushik-738&theme=holi&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shantanu-kaushik-738&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Snake Game Repo View -->
 <<div align="center">
