@@ -8,7 +8,8 @@
 - ⚡ Fun fact: I debug with dry runs before touching the compiler 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shantanu-kaushik-738&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Shantanu-kaushik-738&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=Commits,Issues,PullRequest,Stars)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shantanu-kaushik-b16a6835b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaushikshantanu420@gmail.com) 
