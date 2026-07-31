@@ -9,8 +9,7 @@
 
 
 # 🏅 GitHub Achievements
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" height="80" alt="Pull Shark"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" height="80" alt="Quickdraw"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" height="80" alt="Pull Shark"/><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" height="80" alt="Quickdraw"/>
 
 
 ## 🌐 Socials:
