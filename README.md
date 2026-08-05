@@ -5,12 +5,11 @@
 - 🛠️ Building projects in **Java OOP, Web Development (HTML, CSS, JS), and Python basics**  
 - 📊 Active on **LeetCode (300+ problems solved), CodeChef (1100+ rating) (1200+ DSA rating), and GitHub** 
 - 💬 Ask me about: Java, C++, DSA, Competitive Programming  
-- ⚡ Fun fact: I debug with dry runs before touching the compiler 
+- ⚡ Fun fact: I debug with dry runs before touching the compiler
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shantanu-kaushik-738&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=PullShark,Quickdraw)
-
-
 
 
 ## 🌐 Socials:
