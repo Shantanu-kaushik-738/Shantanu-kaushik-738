@@ -7,16 +7,13 @@
 - 💬 Ask me about: Java, C++, DSA, Competitive Programming  
 - ⚡ Fun fact: I debug with dry runs before touching the compiler
 
-
-## 🏆 GitHub Trophies
-
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-0078D4?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" />
-  <img src="https://img.shields.io/badge/Achievement-Quickdraw-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw" />
-  <!-- <img src="https://img.shields.io/badge/Achievement-YOLO-800080?style=for-the-badge&logo=github&logoColor=white" alt="YOLO" /> -->
-  <!-- <img src="https://img.shields.io/badge/Achievement-Pair%20Extraordinaire-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Pair Extraordinaire" /> -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" title="Pull Shark" alt="Pull Shark" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" title="Quickdraw" alt="Quickdraw" />
+  <!-- <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" title="Yolo" alt="Yolo" /> -->
+  <!-- <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90" title="Pair Extraordinaire" alt="Pair Extraordinaire" /> -->
 </p>
 
 ## 🌐 Socials:
