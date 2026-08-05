@@ -10,9 +10,13 @@
 
 ## 🏆 GitHub Trophies
 
+## 🏆 GitHub Achievements
+
 <p align="center">
   <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-0078D4?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" />
   <img src="https://img.shields.io/badge/Achievement-Quickdraw-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw" />
+  <!-- <img src="https://img.shields.io/badge/Achievement-YOLO-800080?style=for-the-badge&logo=github&logoColor=white" alt="YOLO" /> -->
+  <!-- <img src="https://img.shields.io/badge/Achievement-Pair%20Extraordinaire-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Pair Extraordinaire" /> -->
 </p>
 
 ## 🌐 Socials:
