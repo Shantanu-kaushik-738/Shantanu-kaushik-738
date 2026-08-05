@@ -9,9 +9,11 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shantanu-kaushik-738&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=Quickdraw,PullShark)
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-0078D4?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/Achievement-Quickdraw-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw" />
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shantanu-kaushik-b16a6835b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanukaushik190@gmail.com) 
