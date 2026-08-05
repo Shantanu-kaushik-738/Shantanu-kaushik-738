@@ -9,7 +9,8 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shantanu-kaushik-738&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=PullShark,Quickdraw)
+![](https://github-profile-trophy.vercel.app/?username=Shantanu-kaushik-738&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=Quickdraw,PullShark)
+
 
 
 ## 🌐 Socials:
