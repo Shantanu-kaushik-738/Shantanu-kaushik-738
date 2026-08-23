@@ -36,8 +36,18 @@ I actively participate in LeetCode, CodeChef, and Codeforces to sharpen my skill
 ![](https://streak-stats.demolab.com/?user=Shantanu-kaushik-738&theme=holi&hide_border=false)<br/>
 
 <!-- Snake Game Repo View -->
-<<div align="center">
+<!--<<div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+-->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DivyanshuXOR/DivyanshuXOR/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DivyanshuXOR/DivyanshuXOR/output/github-snake-light.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/DivyanshuXOR/DivyanshuXOR/output/github-snake-light.svg">
+</picture>
+
 </div>
 
 ### ✍️ Random Dev Quote
