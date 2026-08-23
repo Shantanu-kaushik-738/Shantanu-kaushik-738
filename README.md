@@ -43,9 +43,9 @@ I actively participate in LeetCode, CodeChef, and Codeforces to sharpen my skill
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DivyanshuXOR/DivyanshuXOR/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DivyanshuXOR/DivyanshuXOR/output/github-snake-light.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/DivyanshuXOR/DivyanshuXOR/output/github-snake-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shantanu-kaushik-738/Shantanu-kaushik-738/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shantanu-kaushik-738/Shantanu-kaushik-738/output/github-snake-light.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Shantanu-kaushik-738/Shantanu-kaushik-738/output/github-snake-light.svg">
 </picture>
 
 </div>
