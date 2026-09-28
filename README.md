@@ -3,7 +3,7 @@
 - 🔥 Passionate about **Competitive Programming** (C++/Java) and **Problem Solving**  
 - 🌱 Currently mastering **Data Structures & Algorithms (DSA)**  
 - 🛠️ Building projects in **Java OOP, Web Development (HTML, CSS, JS), and Python basics**  
-- 📊 Active on **LeetCode (350+ problems solved), CodeChef (1200+ rating) (1600+ DSA rating), GFG, and GitHub** 
+- 📊 Active on **LeetCode, CodeChef, CodeForces, GFG, and GitHub** 
 - 💬 Ask me about: Java, C++, DSA, Competitive Programming  
 - ⚡ Fun fact: I debug with dry runs before touching the compiler
 
